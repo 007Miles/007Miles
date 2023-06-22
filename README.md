@@ -14,6 +14,10 @@
 
 - 🌱 I’m currently learning **Spring Boot & React Native**
 
+- 👯 I’m looking to collaborate on **Full-stack projects**
+
+- 🤝 I’m looking for help with **anything to improve myself**
+
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **joelmilendra@gmail.com**
