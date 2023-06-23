@@ -8,7 +8,7 @@
 
 <div align="center"><img align="center" alt="Animated programmer gif" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" style="margin-bottom: 25px;></div>
 <br>                  
-<div align="center"><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=007miles" alt="007miles" /></a> </p></div>
+<div align="center"><p align="center">&nbsp; <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=007miles" alt="007miles" /></a> </p></div>
 
 - 🔭 I’m currently working on [Cultural-Stay](https://github.com/007Miles/cultural-stay)
 
@@ -38,6 +38,6 @@
 
 <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=007miles&show_icons=true&locale=en&layout=compact" alt="007miles" /></p></div>
 
-<div align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=007miles&show_icons=true&locale=en" alt="007miles" /></p></div>
+<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=007miles&show_icons=true&locale=en" alt="007miles" /></p></div>
 
 <div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=007miles&" alt="007miles" /></p></div>
