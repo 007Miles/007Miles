@@ -7,8 +7,8 @@
 <div align="center"><p align=center"> <img src="https://komarev.com/ghpvc/?username=007miles&label=Profile%20views&color=0e75b6&style=flat" alt="007miles" /> </p></div>
 
 <div align="center"><img align="center" alt="Animated programmer gif" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></div>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=007miles" alt="007miles" /></a> </p>
+<div></div>
+<div align="center"><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=007miles" alt="007miles" /></a> </p></div>
 
 - 🔭 I’m currently working on [Cultural-Stay](https://github.com/007Miles/cultural-stay)
 
