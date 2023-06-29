@@ -10,9 +10,9 @@
 <br>                  
 <div align="center"><p align="center">&nbsp; <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=007miles" alt="007miles" /></a> </p></div>
 
-- 🔭 I’m currently working on [Cultural-Stay](https://github.com/007Miles/cultural-stay)
+- 🔭 I’m currently working on [springboot-rest-api-demo](https://github.com/007Miles/springboot-rest-api-demo)
 
-- 🌱 I’m currently learning **Spring Boot & React Native**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
 
