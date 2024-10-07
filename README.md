@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on [springboot-rest-api-demo](https://github.com/007Miles/springboot-rest-api-demo)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **.NET**
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
 
 - 🤝 I’m looking for help with **anything to improve myself**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Spring Boot**
 
 - 📫 How to reach me **joelmilendra@gmail.com**
 
